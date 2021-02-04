@@ -16,6 +16,7 @@
 <url> <loc>https://community-development.makerdao.com/en/contribute/content/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/content/reviewer-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/content/using-github-ongoing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/contribute/contest/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/governance_and_risk_meetings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/governance_and_risk_meetings/take-notes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/hackathons/guide-to-hacking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -91,8 +92,8 @@
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/get-dai/buy-dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/get-dai/earn-dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/emergency-shutdown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/faqs/liquidation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/faqs/liquidation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/makerdao/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/mkr-token/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/oracles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
