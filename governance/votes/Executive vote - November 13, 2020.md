@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Onboard GUSD - November 13, 2020
+title: Onboard GUSD - November 13, 2020
+summary: Vote for this proposal to onboard GUSD
+date: 2020-11-13T00:00:00Z
+address: "0xa24311446583f22432b335B53282CF8ecbfBC7A9"
 
 ---
-## [Executive Vote] Onboard GUSD - November 13, 2020
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Onboard GUSD as a new Collateral Type
