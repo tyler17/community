@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Onboarding Uniswap V2 LPTs - February 5, 2021
+title: Onboarding Uniswap V2 LPTs - February 5, 2021
 summary: Vote for this proposal to onboard onboard Uniswap V2 LPTs
 date: 2021-02-05T00:00:00Z
 address: "0x296E9C87967427c2539838535175e616eCe761d4"
