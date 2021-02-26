@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Approve October 2020 Governance Cycle Bundle - October 26, 2020
+title: Approve October 2020 Governance Cycle Bundle - October 26, 2020
+summary: Vote for this proposal to approve October 2020 Governance Cycle Bundle - October 26, 2020
+date: 2020-10-26T00:00:00Z
+address: "0xBc59B45F54f88EfD5f8f5cf0FbcBf5970A9255cc"
 
 ---
-## [Executive Vote] Approve October 2020 Governance Cycle Bundle - October 26, 2020
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ###  October 2020 Governance Cycle Bundle
