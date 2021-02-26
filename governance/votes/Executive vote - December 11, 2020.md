@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Collateral Onboarding, ETH-B DC-IAM, Other Changes - December 11, 2020
+title: Collateral Onboarding, ETH-B DC-IAM, Other Changes - December 11, 2020
+summary: Vote for this proposal to onboard renBTC and UNI, Enable DC-IAM for ETH-B, Reduce Stablecoin SFs to 0%, Modify YFI-A parameters, and whitelist Yearn.finance on the YFIUSD OSM Oracle
+date: 2020-12-11T00:00:00Z
+address: "0x58401b64CA6b91E346c87B057254F040990c4F98"
 
 ---
-## [Executive Vote] Collateral Onboarding, ETH-B DC-IAM, Other Changes - December 11, 2020
-
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
 ### Onboard renBTC as a new Collateral Type
