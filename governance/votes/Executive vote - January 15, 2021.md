@@ -1,8 +1,10 @@
 ---
-title: Template - [Executive Vote] Stability Fee Changes, Oracle Whitelisting, Other Changes - January 15, 2021
+title: Stability Fee Changes, Oracle Whitelisting, Other Changes - January 15, 2021
+summary: Vote for this proposal to make Stability Fee Changes, Oracle Whitelisting, and Other Changes
+date: 2021-01-15T00:00:00Z
+address: "0x421b7c446f8545d98d9adcb10cdeb4a588210f8f"
 
 ---
-## [Executive Vote] Stability Fee Changes, Oracle Whitelisting, Other Changes - January 15, 2021
 
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
