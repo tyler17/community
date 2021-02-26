@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Raise the PAX-A Debt Ceiling and Reduce the Base Rate - October 2, 2020
+title: Raise the PAX-A Debt Ceiling and Reduce the Base Rate - October 2, 2020
+summary: Vote for this proposal to raise the PAX-A Debt Ceiling and Reduce the Base Rate - October 2, 2020
+date: 2020-10-02T00:00:00Z
+address: "0xd2127E16741Bb1Fd275E5E81F170b177698926D1"
 
 ---
-## [Executive Vote] Raise the PAX-A Debt Ceiling and Decrease the Base Rate - October 2, 2020
-
 The Governance Facilitator and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### PAX-A Debt Ceiling Increase 
