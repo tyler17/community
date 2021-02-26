@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
+title: Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
+summary: Vote for this proposal to increase YFI-A Debt Ceiling, increase Dust Parameter for all Vault-Types
+date: 2020-11-20T00:00:00Z
+address: "0x8D602692eE4b5f0ec33A22fe6547822377FDCc4c"
 
 ---
-## [Executive Vote] Increase YFI-A Debt Ceiling, Increase Dust Parameter for all Vault-Types - November 20, 2020
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Increase YFI-A Debt Ceiling
