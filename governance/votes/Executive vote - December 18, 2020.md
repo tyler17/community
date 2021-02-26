@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Collateral Onboarding, Rates Changes, Oracle Whitelisting - December 18, 2020
+title: Collateral Onboarding, Rates Changes, Oracle Whitelisting - December 18, 2020
+summary: Vote for this proposal to onboard Aave and UNI-V2-DAI-ETH as new collateral types, stability fee changes, and whitelisting Gnosis on the ETHUSD OSM Oracle
+date: 2020-12-18T00:00:00Z
+address: "0x6b8b3993cFB253968894C8EcB430CaF2455b51Aa"
 
 ---
-## [Executive Vote] Collateral Onboarding, Rates Changes, Oracle Whitelisting - December 18, 2020
-
 The Governance Facilitator(s) and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system. MKR Holders should vote for this proposal if they wish to make the following alterations to the Maker Protocol.
 
 ### Onboard Aave as a new Collateral Type
