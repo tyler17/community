@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Increase ETH-A Debt Ceiling - November 27, 2020
+title: Template - Increase ETH-A Debt Ceiling - November 27, 2020
+summary: Vote for this proposal to increase ETH-A Debt Ceiling
+date: 2020-11-27T00:00:00Z
+address: "0x823Ac093BC6C5D1cC48739d574aC0a8D09ffC565"
 
 ---
-## [Executive Vote] Increase ETH-A Debt Ceiling - November 27, 2020
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Increase the ETH-A Debt Ceiling
