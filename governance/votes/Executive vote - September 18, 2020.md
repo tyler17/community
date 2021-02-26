@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Enable TUSD, Reduce Stablecoin Liquidation Ratios, Other Changes - September 18, 2020
+title: Enable TUSD, Reduce Stablecoin Liquidation Ratios, Other Changes - September 18, 2020
+summary: Vote for this proposal to enable TUSD, reduce Stablecoin Liquidation Ratios, other changes.
+date: 2020-09-18T00:00:00Z
+address: "0x7E47c04a41A78F355C33a94cD3889E4551121ae1"
 
 ---
-## [Executive Vote] Enable TUSD, Reduce Stablecoin Liquidation Ratios, Other Changes - September 18, 2020
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Base Rate Increase
