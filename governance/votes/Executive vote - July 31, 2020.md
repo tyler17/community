@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Reduce the Base Rate, Whitelist DyDx on the ETHUSD Oracle
+title: Reduce the Base Rate, Whitelist DyDx on the ETHUSD Oracle
+summary: Vote for this proposal to reduce the Base Rate, and whitelist DyDx on the ETHUSD Oracle
+date: 2020-07-31T00:00:00Z
+address: "0xf132619F3AA8Fc35b256C089097E91A0C2b3902a"
 
 ---
-## [Executive Vote] Reduce the Base Rate, Whitelist DyDx on the ETHUSD Oracle
-
 The Governance Facilitators and the Maker Foundation Smart Contracts Team have placed an Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol.
 
 ### Reduce the Base Rate
