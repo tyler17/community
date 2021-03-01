@@ -1,9 +1,10 @@
 ---
-title: Template - [Executive Vote] Raise the ETH-A Debt Ceiling
+title: Raise the ETH-A Debt Ceiling
+summary: Vote for this proposal to raise the ETH-A Debt Ceiling 20M to a new limit of 160M
+date: 2020-07-06T00:00:00Z
+address: "0x658eC6A5D4d1Cfd72D2Baad14F8Ad96FC2fCDd51"
 
 ---
-## [Executive Vote] Raise the ETH-A Debt Ceiling
-
 The Maker Foundation Interim Governance Facilitator has placed an **unscheduled** Executive Vote into the voting system which will enable the community to approve the following alterations to the protocol as outlined in this forum thread: [[Signal Request] ETH-A Stability Fee and Debt Ceiling adjustments](https://forum.makerdao.com/t/3059).
 
 Therefore, voting for this Executive will:
